@@ -1,0 +1,14 @@
+// © 2025 NTT DATA Japan Co., Ltd. & NTT InfraNet All Rights Reserved.
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.spatialid.app.LambdaHandler",
+            "projectName": "infdx-lmd-adjustcomplete"
+        }
+    ]
+}
